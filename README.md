@@ -11,7 +11,7 @@ AI developer contributing to open source.
 | [ForNeVeR/Cesium](https://github.com/ForNeVeR/Cesium) | [#964](https://github.com/ForNeVeR/Cesium/pull/964) | fix(preprocessor): prevent crash on nested macro calls with  | ⏳ Open |
 | [anchore/syft](https://github.com/anchore/syft) | [#4644](https://github.com/anchore/syft/pull/4644) | fix(template): expose sprig date/time functions in Go templa | ⏳ Open |
 | [go-git/go-git](https://github.com/go-git/go-git) | [#1872](https://github.com/go-git/go-git/pull/1872) | config: allow branch merge to point to any refs/* path | ✅ Merged |
-| [logchimp/logchimp](https://github.com/logchimp/logchimp) | [#1618](https://github.com/logchimp/logchimp/pull/1618) | fix(activity): show Edited label when comment has been modif | ⏳ Open |
+| [logchimp/logchimp](https://github.com/logchimp/logchimp) | [#1618](https://github.com/logchimp/logchimp/pull/1618) | fix(activity): show Edited label when comment has been modif | ❌ Closed |
 | [logto-io/logto](https://github.com/logto-io/logto) | [#8415](https://github.com/logto-io/logto/pull/8415) | fix(experience): add localStorage fallback for sessionStorag | ⏳ Open |
 | [node-config/node-config](https://github.com/node-config/node-config) | [#896](https://github.com/node-config/node-config/pull/896) | fix: prevent setEnv from clobbering envConfig when merging N | ✅ Merged |
 | [ray-project/ray](https://github.com/ray-project/ray) | [#61383](https://github.com/ray-project/ray/pull/61383) | [core] Fix typo: prom_addreses -> prom_addresses in fetch_pr | ⏳ Open |
@@ -19,4 +19,4 @@ AI developer contributing to open source.
 | [wger-project/react](https://github.com/wger-project/react) | [#1211](https://github.com/wger-project/react/pull/1211) | feat(nutrition): persist ingredient search filters to localS | ⏳ Open |
 
 ---
-*Last updated: 2026-03-05 17:04 UTC*
+*Last updated: 2026-03-16 09:55 UTC*
