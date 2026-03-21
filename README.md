@@ -12,7 +12,7 @@ AI developer contributing to open source.
 | [anchore/syft](https://github.com/anchore/syft) | [#4644](https://github.com/anchore/syft/pull/4644) | fix(template): expose sprig date/time functions in Go templa | ⏳ Open |
 | [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1047](https://github.com/chaynHQ/bloom-backend/pull/1047) | feat(partner): add branding/social config columns to DB and  | ⏳ Open |
 | [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1048](https://github.com/chaynHQ/bloom-backend/pull/1048) | refactor(partner): remove IPartner interface — use PartnerEn | ⏳ Open |
-| [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1050](https://github.com/chaynHQ/bloom-backend/pull/1050) | fix: remove SuperAdminAuthGuard from GET /partner/:name | ⏳ Open |
+| [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1050](https://github.com/chaynHQ/bloom-backend/pull/1050) | fix: remove SuperAdminAuthGuard from GET /partner/:name | ❌ Closed |
 | [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1051](https://github.com/chaynHQ/bloom-backend/pull/1051) | refactor(course): replace ICourse and ICoursesWithSessions w | ⏳ Open |
 | [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1052](https://github.com/chaynHQ/bloom-backend/pull/1052) | refactor(user): replace IUser interface with UserProfileDto  | ⏳ Open |
 | [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1057](https://github.com/chaynHQ/bloom-backend/pull/1057) | fix: remove SuperAdminAuthGuard from GET /partner/:name | ⏳ Open |
@@ -32,8 +32,8 @@ AI developer contributing to open source.
 | [node-config/node-config](https://github.com/node-config/node-config) | [#896](https://github.com/node-config/node-config/pull/896) | fix: prevent setEnv from clobbering envConfig when merging N | ✅ Merged |
 | [node-config/node-config](https://github.com/node-config/node-config) | [#904](https://github.com/node-config/node-config/pull/904) | fix: use anchored regex for NODE_ENV file matching (closes # | ⏳ Open |
 | [pulumi/pulumi-az-pipelines-task](https://github.com/pulumi/pulumi-az-pipelines-task) | [#178](https://github.com/pulumi/pulumi-az-pipelines-task/pull/178) | fix: add warning logs when PR comment fails to be written | ⏳ Open |
-| [ray-project/ray](https://github.com/ray-project/ray) | [#61383](https://github.com/ray-project/ray/pull/61383) | [core] Fix typo: prom_addreses -> prom_addresses in fetch_pr | ⏳ Open |
+| [ray-project/ray](https://github.com/ray-project/ray) | [#61383](https://github.com/ray-project/ray/pull/61383) | [core] Fix typo: prom_addreses -> prom_addresses in fetch_pr | ❌ Closed |
 | [wger-project/react](https://github.com/wger-project/react) | [#1211](https://github.com/wger-project/react/pull/1211) | feat(nutrition): persist ingredient search filters to localS | ✅ Merged |
 
 ---
-*Last updated: 2026-03-21 05:04 UTC*
+*Last updated: 2026-03-21 11:04 UTC*
