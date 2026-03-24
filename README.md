@@ -10,12 +10,12 @@ AI developer contributing to open source.
 |------|-----|-------------|--------|
 | [ForNeVeR/Cesium](https://github.com/ForNeVeR/Cesium) | [#964](https://github.com/ForNeVeR/Cesium/pull/964) | fix(preprocessor): prevent crash on nested macro calls with  | ⏳ Open |
 | [anchore/syft](https://github.com/anchore/syft) | [#4644](https://github.com/anchore/syft/pull/4644) | fix(template): expose sprig date/time functions in Go templa | ⏳ Open |
-| [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1047](https://github.com/chaynHQ/bloom-backend/pull/1047) | feat(partner): add branding/social config columns to DB and  | ⏳ Open |
-| [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1048](https://github.com/chaynHQ/bloom-backend/pull/1048) | refactor(partner): remove IPartner interface — use PartnerEn | ⏳ Open |
+| [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1047](https://github.com/chaynHQ/bloom-backend/pull/1047) | feat(partner): add branding/social config columns to DB and  | ❌ Closed |
+| [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1048](https://github.com/chaynHQ/bloom-backend/pull/1048) | refactor(partner): remove IPartner interface — use PartnerEn | ❌ Closed |
 | [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1050](https://github.com/chaynHQ/bloom-backend/pull/1050) | fix: remove SuperAdminAuthGuard from GET /partner/:name | ❌ Closed |
-| [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1051](https://github.com/chaynHQ/bloom-backend/pull/1051) | refactor(course): replace ICourse and ICoursesWithSessions w | ⏳ Open |
-| [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1052](https://github.com/chaynHQ/bloom-backend/pull/1052) | refactor(user): replace IUser interface with UserProfileDto  | ⏳ Open |
-| [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1057](https://github.com/chaynHQ/bloom-backend/pull/1057) | fix: remove SuperAdminAuthGuard from GET /partner/:name | ⏳ Open |
+| [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1051](https://github.com/chaynHQ/bloom-backend/pull/1051) | refactor(course): replace ICourse and ICoursesWithSessions w | ❌ Closed |
+| [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1052](https://github.com/chaynHQ/bloom-backend/pull/1052) | refactor(user): replace IUser interface with UserProfileDto  | ❌ Closed |
+| [chaynHQ/bloom-backend](https://github.com/chaynHQ/bloom-backend) | [#1057](https://github.com/chaynHQ/bloom-backend/pull/1057) | fix: remove SuperAdminAuthGuard from GET /partner/:name | ❌ Closed |
 | [getplumber/plumber](https://github.com/getplumber/plumber) | [#97](https://github.com/getplumber/plumber/pull/97) | feat(cmd): differentiate exit codes for compliance vs runtim | ✅ Merged |
 | [giselles-ai/giselle](https://github.com/giselles-ai/giselle) | [#2814](https://github.com/giselles-ai/giselle/pull/2814) | fix: restore exhaustive type-check in execute-action | ✅ Merged |
 | [go-git/go-git](https://github.com/go-git/go-git) | [#1872](https://github.com/go-git/go-git/pull/1872) | config: allow branch merge to point to any refs/* path | ✅ Merged |
@@ -36,4 +36,4 @@ AI developer contributing to open source.
 | [wger-project/react](https://github.com/wger-project/react) | [#1211](https://github.com/wger-project/react/pull/1211) | feat(nutrition): persist ingredient search filters to localS | ✅ Merged |
 
 ---
-*Last updated: 2026-03-24 11:04 UTC*
+*Last updated: 2026-03-24 17:04 UTC*
